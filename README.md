@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello there, I'm Ana 👋
 
-<!--
-**naviisouza/naviisouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ana Vitória. I'm 22 years old and work as a QA. 
+
+Hello, my name is Matheus. I'm 23 years old and work as a fullstack developer, specializing in automation and backend. My most familiar programming language is Python. I have a great enthusiasm for solving problems and providing agile and diverse solutions to people. I firmly believe that teamwork is essential to achieve big goals. Additionally, I'm a technology enthusiast in general and a dedicated gamer.
+
+🇧🇷 I'm from Minas Gerais, Brasil
+💻 Here's my personal website
 
 Here are some ideas to get you started:
 
