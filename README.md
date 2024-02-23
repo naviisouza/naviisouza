@@ -1,4 +1,4 @@
-### Hello there, I'm Ana 👋
+### Hello there, welcome :)
 
 My name is Ana Vitória. I'm 22 years old and I work as a QA. However, I am in a career transition, I intend to migrate to the UX/UI design area.
 
